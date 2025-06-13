@@ -43,5 +43,5 @@ A simple digital dice roller implemented in Verilog HDL, featuring:
 | `default`             | `7'b1111111`           | (blank/off)      |
 
 ## Outputs
-RTL Schematic:
-Output Waveform:
+RTL Schematic: https://github.com/ananyav-26/Digital-Dice-Roller/blob/main/images/dice_rtl.png
+Output Waveform: https://github.com/ananyav-26/Digital-Dice-Roller/blob/main/images/dice_waveform.png
